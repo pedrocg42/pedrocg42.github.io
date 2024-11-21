@@ -5269,16 +5269,41 @@ Created using IcoMoon - icomoon.io
 /* Footer */
 /* Social button style */
 .cc-github:hover i {
-  color: #3b5998; }
+  color: #ffdfcf; }
+
+.cc-github-publication i {
+  color: #FFF;
+}
+.cc-github-publication:hover i {
+  color: #ffdfcf;
+}
+
+.cc-doc-publication i {
+  color: #FFF;
+}
+.cc-doc-publication:hover i {
+  color: #ffdfcf;
+}
 
 .cc-x-twitter:hover i {
-  color: #1da1f2; }
+  /* color: #1da1f2; */
+  color: #ffdfcf;
+}
 
 .cc-google-scholar:hover i {
-  color: #dd4b39; }
+  /* color: #dd4b39; */
+  color: #ffdfcf;
+}
+
+.cc-linkedin:hover i {
+  /* color: #dd4b39; */
+  color: #ffdfcf;
+}
 
 .cc-instagram:hover i {
-  color: #405de6; }
+  /* color: #405de6; */
+  color: #ffdfcf;
+}
 
 /* Credit Style */
 a.credit {
